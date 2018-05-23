@@ -1,2 +1,2 @@
 # BRHShtml
-Info on my family
+This repository contains projects and assignments for my High-School course
